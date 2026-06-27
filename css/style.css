@@ -207,8 +207,6 @@ img {
   flex-direction: column;
   gap: 16px;
   order: 1;
-  /* 일본어 등 문구가 길어져도 한 컬럼이 과도하게 넓어지지 않도록 제한 */
-  max-width: 560px;
 }
 
 .hero__eyebrow {
